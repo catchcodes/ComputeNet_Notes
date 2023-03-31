@@ -22,7 +22,7 @@
   <a href="https://github.com/catchcodes">
     <img src="https://img.shields.io/badge/%E6%AC%A7%E9%98%B3%E6%96%8C-catchcodes-brightgreen">
   </a>
-  <a href="https://github.com/catchcodes/catchcodes.github.io/blob/master/LICENSE.txt">
+  <a href="https://github.com/catchcodes/ComputeNet_Notes/blob/main/LICENSE.txt">
     <img src="https://img.shields.io/badge/LICENSE-MIT-blueviolet">
   </a>
   <a href="https://wpa.qq.com/msgrd?v=3&uin=1994143440&site=qq&menu=yes&jumpflag=1">
