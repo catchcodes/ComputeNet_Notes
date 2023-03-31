@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/%E6%AC%A7%E9%98%B3%E6%96%8C-catchcodes-brightgreen">
   </a>
   <a href="https://github.com/catchcodes/catchcodes.github.io/blob/master/LICENSE.txt">
-    <img src="https://img.shields.io/badge/LICENSE-Apache--2.0-success">
+    <img src="https://img.shields.io/badge/LICENSE-MIT-blueviolet">
   </a>
   <a href="https://wpa.qq.com/msgrd?v=3&uin=1994143440&site=qq&menu=yes&jumpflag=1">
     <img src="https://img.shields.io/badge/QQ-%F0%9F%8C%9E%20-yellowgreen">
