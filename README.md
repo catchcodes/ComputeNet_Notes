@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/badge/QQ-%F0%9F%8C%9E%20-yellowgreen">
   </a>
   <img src="https://img.shields.io/github/stars/catchcodes/ComputeNet_Notes.svg">
+  <a href="https://github.com/catchcodes/catchcodes.github.io/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/mindspore-ai/mindspore.svg?style=flat-square">
+  </a>
 </div>
 
 </br>
